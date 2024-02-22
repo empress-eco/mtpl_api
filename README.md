@@ -1,12 +1,13 @@
-<p align="center">
-  <img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="SmartConnect Logo" />
-</p>
+<div align="center">
+
+<img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Logo" width="80" height="80">
 
 SmartConnect is a comprehensive mobile application designed to streamline your business operations. This tool allows you to manage workflows, sales orders, purchase orders, and much more right at your fingertips. 
 
-- [Explore the App](https://empress.eco/)
-- [Report a Bug](https://github.com/empress-eco/mtpl_api/issues)
-- [Request a Feature](https://github.com/empress-eco/mtpl_api/issues)
+[Explore the App](https://empress.eco/) | [Report a Bug](https://github.com/empress-eco/mtpl_api/issues) | [Request a Feature](https://github.com/empress-eco/mtpl_api/issues)
+
+</div>
+
 
 ## About The App
 
