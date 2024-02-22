@@ -1,55 +1,57 @@
-## SmartConnect: Interactive Mobile App
+<p align="center">
+  <img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="SmartConnect Logo" />
+</p>
 
-&gt; Beta Version: This application is currently undergoing active development to improve stability and functionality.
+SmartConnect is a comprehensive mobile application designed to streamline your business operations. This tool allows you to manage workflows, sales orders, purchase orders, and much more right at your fingertips. 
 
+- [Explore the App](https://empress.eco/)
+- [Report a Bug](https://github.com/empress-eco/mtpl_api/issues)
+- [Request a Feature](https://github.com/empress-eco/mtpl_api/issues)
 
-### Download App
+## About The App
 
-- Nightly Build APK: [Google Drive](https://drive.google.com/drive/folders/1SmKti-iJfoqoyBLuleAnNFAVhL9MNUy5?usp=sharing) (Recommended)
+SmartConnect is designed to bring efficiency and optimization to your business processes. With features such as Workflow Approval, Lead Management, Stock Reconciliation, Quality Inspection, Sales Order Management, and Purchase Order Management, SmartConnect becomes a powerful tool to manage your business processes in one place.
 
-- Android: [Play Store](https://play.google.com/store/apps/details?id=com.midocean.smartconnect) 
-
-- Apple: Coming Soon!
-
-
-### Features
-
+## Key Features
 - Workflow Approval
-- Lead
-- Work Order (Read only)
-- BOM (Read only)
+- Lead Management
+- Work Order (Read-only)
+- Bill of Materials (Read-only)
 - Stock Reconciliation
 - Quality Inspection
-- Sales Order
-- Purchase Order
+- Sales Order Management
+- Purchase Order Management
 
+### Built With
+This app is built using the robust architecture and tooling provided by the Framework.
 
-### Security
+## Getting Started
 
-- Restrict screenshot and screen recording
+### Prerequisites
+To get started, download the app via the following links:
 
-### Planned Future Updates
+- [Nightly Build APK](https://drive.google.com/drive/folders/1SmKti-iJfoqoyBLuleAnNFAVhL9MNUy5?usp=sharing) (Recommended)
+- [Android: Play Store](https://play.google.com/store/apps/details?id=com.midocean.smartconnect)
+- Apple: Coming Soon!
 
-- POS &amp; Delivery Mngt
-- UI/UX Improvements
-- Customer 
-- Supplier
-- Work Order CRUD
-- Stock Inward (Purchase Receipt)
-- Stock Outward (Delivery Note)
-- Stock Transfer (Stock Entry)
+### Installation
+No installation steps are necessary. Simply download the app and start optimizing your business operations.
 
-### Feature Request
+## Usage
+To use SmartConnect, download the app using the links provided in the 'Prerequisites' section. Upon opening the app, you'll be presented with a variety of tools to manage your business operations. 
 
-- [Contact Now](https://forms.gle/DpvCDCxsyhnNtqk99)
+## Contributing
+We welcome contributions! Here's how you can contribute:
 
-### Frappe Cloud: [Link](https://frappecloud.com/marketplace/apps/mtpl_api)
+- Send us your feature requests or report bugs through the links provided at the top of the page.
+- For any issues, questions, or support related to the app, kindly contact <sagar@midocean.tech>
 
-### Support
+## License
 
-For any issues, questions, or support related to the this App, Kindly contact &lt;sagar@midocean.tech&gt;
+This project is licensed under the MIT License. Your contributions are also licensed under the same.
 
-Thank you for using our App! We hope you enjoy the options it provides for your application.
+## Acknowledgements
 
+Special thanks to the Empress Community, the architects behind the essential tools that power this project. Their innovation and dedication have been instrumental in building the foundations and functionalities we rely on. We are profoundly grateful for their pioneering work and ongoing support. 
 
-
+Thanks to all our users for their valuable feedback and suggestions. We continue to improve our app based on your needs.
